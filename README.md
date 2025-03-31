@@ -9,8 +9,6 @@ Uses the classic **Iris dataset**, which contains 150 samples of iris flowers wi
 - Python  
 - Scikit-Learn  
 - Pandas  
-- NumPy  
-- Matplotlib (for visualization)  
 
 ## How to Run  
 1. Clone the repository.  
